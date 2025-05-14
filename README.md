@@ -1,1 +1,1 @@
-# Proyect_2025_finca_lcick
+# proyectoDeAula
